@@ -1,0 +1,42 @@
+h1{
+    color:aquamarine;
+    font-size:250%;
+    font-family:Verdana, Tahoma, sans-serif;
+    text-align:center;
+}
+#first{
+    color:rgba(156, 6, 211, 0.912);
+    padding-left:10px;
+    border-width:2px;
+    border-color:rgba(102, 151, 12, 0.912);
+    border-style:dotted;
+    text-align:center;
+}
+p:first-letter{
+    font-size:2em;
+    font-weight:bold;
+    color:rgb(182, 13, 27)
+}
+#second{
+    color:rgba(197, 211, 6, 0.975);
+    padding-left:10px;
+    border-width:2px;
+    border-color:rgb(10, 39, 133);
+    border-style:inset;
+    text-align:center;
+}
+h2{
+    color:rgb(236, 16, 126);
+    font-size:250%;
+    font-family:Verdana, Tahoma, sans-serif;
+    text-align:center;
+}
+body{
+    background-color:rgb(190, 225, 255);
+
+
+}
+#cool:hover{
+
+
+}
